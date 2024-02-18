@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Mineral Scanner - All ores</name>
+	<author>KahirDragoon</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>kahirdragoon.mineralscannerallores</packageId>
+	<description>
+Patches the mineral scanner ot work with all modded minable ores.
+	</description>
+	<modDependencies>
+		
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+</ModMetaData>
